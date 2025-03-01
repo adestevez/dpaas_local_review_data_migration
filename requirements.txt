@@ -2,13 +2,3 @@ pandas
 langchain
 pypdf
 openai
-faiss-cpu
-pinecone-client
-chromadb
-tiktoken
-numpy
-pandas
-tenacity
-dotenv
-yt_dlp
-pydub
