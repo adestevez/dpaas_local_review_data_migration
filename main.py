@@ -21,3 +21,6 @@ data = sheet.get_all_values()
 
 # 6️⃣ Convertir los datos a un DataFrame de Pandas para mejor visualización
 df = pd.DataFrame(data[1:], columns=data[0])  # Usa la primera fila como nombres de columnas
+
+
+print(df.head(3))
