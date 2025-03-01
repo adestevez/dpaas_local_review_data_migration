@@ -2,3 +2,9 @@ pandas
 langchain
 pypdf
 openai
+gspread
+google-auth 
+google-auth-oauthlib 
+google-auth-httplib2 
+pymongo
+mysql-connector-python
